@@ -4,6 +4,7 @@ public class Apple {
 	int a;
 	int b;
 	int c;
+<<<<<<< HEAD
 	Float d; 
 	
 	public Apple(int a, int b, int c) {
@@ -11,5 +12,12 @@ public class Apple {
 		this.b = b;
 		this.c = c;
 		this.d = 0.123F;
+=======
+	
+	public Apple(int a, int b, int c) {
+		this.a = a;
+		this.b = b;
+		this.c = c;
+>>>>>>> refs/heads/dev1
 	}
 }

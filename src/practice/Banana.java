@@ -1,5 +1,7 @@
 package practice;
 
 public class Banana {
-	Doub
+	Double banana;
+	Integer banana2;
+	
 }
